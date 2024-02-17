@@ -23,26 +23,6 @@ body {
   border: 1vmin solid black;
 }
 
-.circle {
-  width: 50vmin;
-  height: 50vmin;
-  border-radius: 50%;
-}
-
-.circle span {
-  color: white;
-  font-weight: 800;
-  font-family: sans-serif;
-  font-size: 13vmin;
-}
-
-.bg {
-  position: absolute;
-  background: white;
-  opacity: 0.3;
-  will-change: transform;
-}
-
 .container {
   display: flex;
   justify-content: center;
