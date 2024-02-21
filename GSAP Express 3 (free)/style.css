@@ -44,9 +44,12 @@ body {
 }
 
 .container {
+  gap: 20px;
+  max-width: 200px;
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: start;
   width: 100%;
 }
 
